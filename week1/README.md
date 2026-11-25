@@ -1,7 +1,7 @@
 # Week 1 — Excitability: where does a neuron's threshold come from?
 
-> [!summary] This week
-> We reduce a neuron to two differential equations, find its threshold in the geometry of the phase plane, and discover the two ways in which a resting neuron can start firing. These two ways will come back in week 4, as the two candidate ways a seizure can end.
+> [!NOTE]
+> **This week.** We reduce a neuron to two differential equations, find its threshold in the geometry of the phase plane, and discover the two ways in which a resting neuron can start firing. These two ways will come back in week 4, as the two candidate ways a seizure can end.
 
 ## Goals
 

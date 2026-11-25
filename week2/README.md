@@ -1,7 +1,7 @@
 # Week 2 — Potassium as a bifurcation parameter
 
-> [!summary] This week
-> Build a realistic neuron with Hodgkin–Huxley ion channels. Treat the potassium concentration outside the cell as a dial, and turn it up. The neuron goes from resting, to firing, to a silent "depolarization block". Map out exactly where each transition happens and what kind of bifurcation it is.
+> [!NOTE]
+> **This week.** Build a realistic neuron with Hodgkin–Huxley ion channels. Treat the potassium concentration outside the cell as a dial, and turn it up. The neuron goes from resting, to firing, to a silent "depolarization block". Map out exactly where each transition happens and what kind of bifurcation it is.
 
 ## Goals
 

@@ -1,7 +1,7 @@
 # Week 3 — Neuron–glia interaction: a slow potassium loop makes seizures
 
-> [!summary] This week
-> Last week you turned the potassium dial by hand. Now the neuron turns it itself: every spike releases potassium, and pumps and glial cells slowly clear it. The result is a **fast–slow system** that switches itself between resting and seizing, with no external trigger.
+> [!NOTE]
+> **This week.** Last week you turned the potassium dial by hand. Now the neuron turns it itself: every spike releases potassium, and pumps and glial cells slowly clear it. The result is a **fast–slow system** that switches itself between resting and seizing, with no external trigger.
 
 ## Goals
 

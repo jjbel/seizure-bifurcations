@@ -1,7 +1,7 @@
 # Week 4 — The Epileptor: how seizures start and stop
 
-> [!summary] This week
-> Strip away the biology and keep only the dynamics. A five-variable model, the **Epileptor**, reproduces the electrical signature of real seizures. A slow variable drags its fast part through one bifurcation at seizure onset and a different one at offset. You'll predict the onset analytically, and test whether the *slowing of spikes before a seizure ends* can tell the two candidate offsets apart.
+> [!NOTE]
+> **This week.** Strip away the biology and keep only the dynamics. A five-variable model, the **Epileptor**, reproduces the electrical signature of real seizures. A slow variable drags its fast part through one bifurcation at seizure onset and a different one at offset. You'll predict the onset analytically, and test whether the *slowing of spikes before a seizure ends* can tell the two candidate offsets apart.
 
 ## Goals
 

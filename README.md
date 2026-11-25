@@ -1,7 +1,7 @@
 # Seizures as tipping points — nonlinear dynamics of epilepsy
 
-> [!summary] One line
-> A neuron is a nonlinear dynamical system. A seizure starts and stops when a slowly changing quantity pushes that system through a **bifurcation**. The type of bifurcation leaves a measurable fingerprint, which you can predict on paper, find in simulation, and look for in recordings.
+> [!NOTE]
+> **One line.** A neuron is a nonlinear dynamical system. A seizure starts and stops when a slowly changing quantity pushes that system through a **bifurcation**. The type of bifurcation leaves a measurable fingerprint, which you can predict on paper, find in simulation, and look for in recordings.
 
 A four-week computational physics project (MnP, IIT Bombay).
 
